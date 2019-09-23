@@ -1,0 +1,21 @@
+ALPHA 0.4 (February 23, 2006)
+-Addition of Queries form.  Premade queries can be previewed or launched in full read/write mode
+
+ALPHA 0.5 (March 02, 2006)
+-Project tab now has Tasks and Assignments panels in addition to the Description
+-Linked up Tasks to show only those specific to that project, with ability to add new task or edit the selected one.
+-A few backend tweaks/fixes
+
+ALPHA 0.6 (March 16, 2006)
+-Complete overhaul to the People section. Addresses, phone numbers, email addresses and websites have all be normalized so they can now store infinite different lines.
+
+ALPHA 0.65 (May 18, 2006)
+-Added Inventory form, as well as ability to product Invoices. Both are still under development.
+
+ALPHA 0.7 (April 19, 2006)
+-Invoice form went under extensive development.  Invoices can be created and filter based on customer/client.  From there services and items can be added to invoices.  Invoices can be exported to Excel with the press of a button
+
+ALPHA 0.8 (October 03, 2006)
+-Added ability to pay Invoices
+-Added Payment form, with basic functionality
+-Added Expenses table, no form yet
